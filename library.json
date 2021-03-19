@@ -1,0 +1,22 @@
+{
+  "name": "Scheduler-Lite",
+  "version": "1.0.0",
+  "description": "Minimal task scheduling library for my own projects. Tasks are scheduled to happen every X *ticks*. You decide how long is single tick via configuration.",
+  "keywords": "scheduler, task",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Im0rtality/Scheduler-Lite.git"
+  },
+  "authors": [
+    {
+      "name": "Im0rtality",
+      "url": "https://github.com/Im0rtality/Scheduler-Lite",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
